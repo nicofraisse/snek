@@ -1,10 +1,10 @@
 {
-  "name": "javascript-101",
+  "name": "Snëk",
   "version": "1.0.0",
-  "description": "Starting code for First JavaScript ES6 lecture",
+  "description": "Snake game, made with no tutorial and no framework",
   "main": "index.js",
-  "repository": "https://github.com/lewagon/webpack-boilerplate",
-  "author": "ssaunier",
+  "repository": "",
+  "author": "Nicolas Fraisse",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^5.9.0",

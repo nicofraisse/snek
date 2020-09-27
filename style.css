@@ -1,0 +1,10 @@
+.game-grid {
+  height: 400px;
+  width: 400px;
+  margin: auto;
+}
+
+.game-grid td {
+  border: 1px solid;
+}
+
