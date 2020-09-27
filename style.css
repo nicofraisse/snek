@@ -2,9 +2,13 @@
   height: 400px;
   width: 400px;
   margin: auto;
+  border-collapse: collapse;
+  box-sizing: border-box;
+  border-spacing: 0;
+  /*transform: rotateZ(40deg);*/
 }
 
 .game-grid td {
-  border: 1px solid;
+  border: 1px solid #ddd;
 }
 
