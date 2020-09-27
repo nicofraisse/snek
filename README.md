@@ -1,9 +1,9 @@
 # Snake game
 
-`webpack-dev-server`
-
 No framework
 No tutorial
+
+Run by using `webpack-dev-server`
 
 Next steps:
 - Show score
