@@ -1,3 +1,3 @@
-import { Game } from '../lib/game.js'
+import { Game } from '../lib/game.js';
 
-new Game().play()
+new Game().play();
