@@ -1,6 +1,6 @@
 # Snake game
 
-> webpack-dev-server
+`webpack-dev-server`
 
 No framework
 No tutorial
