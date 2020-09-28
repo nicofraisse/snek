@@ -1,8 +1,5 @@
 # Snake game
 
-No framework
-No tutorial
-
 Run by using `webpack-dev-server`
 
 Next steps:
