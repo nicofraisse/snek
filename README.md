@@ -1,6 +1,9 @@
 # Snake game
 
+No framework
+
 Run by using `webpack-dev-server`
+Controls are keyboard arrows
 
 Next steps:
 - Basic game UI controls (eg. play again)
