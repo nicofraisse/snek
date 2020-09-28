@@ -12,3 +12,25 @@
   border: 1px solid #ddd;
 }
 
+body {
+  text-align: center;
+}
+
+
+#lost-modal {
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+
+#lost-modal div {
+  background-color: white;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+  padding: 60px;
+}
