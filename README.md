@@ -1,15 +1,18 @@
 # Snake game
 
 No framework
-No tutorial
+
+Run by using `webpack-dev-server`
+Control snake with arrow keys
 
 Next steps:
-- Show score
-- Increase speed when increase size
-- 1 file per class
+- Basic game UI controls (eg. play again)
 - Front-end
 
 Possible quirks:
 - Drunk mode
 - Controls to increase food
 - Controls to change grid size
+- Brain machine
+- Autosolve
+
