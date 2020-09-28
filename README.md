@@ -3,7 +3,7 @@
 No framework
 
 Run by using `webpack-dev-server`
-Controls snake with arrow keys
+Control snake with arrow keys
 
 Next steps:
 - Basic game UI controls (eg. play again)
