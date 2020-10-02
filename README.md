@@ -10,9 +10,9 @@ Next steps:
 - Front-end
 
 Possible quirks:
-- Drunk mode
 - Controls to increase food
 - Controls to change grid size
 - Brain machine
 - Autosolve
+- "Drunk mode"
 
