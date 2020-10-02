@@ -6,7 +6,7 @@ Run by using `webpack-dev-server`
 Control snake with arrow keys
 
 Next steps:
-- Basic game UI controls (eg. play again)
+- Better game UI (eg. play again)
 - Front-end
 
 Possible quirks:
