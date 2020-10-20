@@ -12,7 +12,7 @@ Next steps:
 Possible quirks:
 - Controls to increase food
 - Controls to change grid size
-- Brain machine
+- Neuro device
 - Autosolve
 - "Drunk mode"
 
