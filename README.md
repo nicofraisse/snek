@@ -1,6 +1,6 @@
 # Snake game
 
-No framework
+Made in Vanilla JavaScript
 
 Run by using `webpack-dev-server`
 Control snake with arrow keys
