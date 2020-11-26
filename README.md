@@ -6,8 +6,8 @@ Run by using `webpack-dev-server`
 Control snake with arrow keys
 
 Next steps:
-- Better game UI (eg. play again)
-- Front-end
+- Improve UI
+- Front-end design 
 
 Possible quirks:
 - Controls to increase food
