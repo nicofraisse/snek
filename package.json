@@ -1,5 +1,5 @@
 {
-  "name": "Snek",
+  "name": "snek",
   "version": "1.0.0",
   "description": "Snake game, made with no tutorial and no framework",
   "main": "index.js",
