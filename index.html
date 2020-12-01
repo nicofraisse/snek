@@ -2,17 +2,25 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Snake Game</title>
+    <title>Drunk snake</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <table class="game-grid">
-      <tbody></tbody>
-    </table>
-    <h3>Size: <span id="snake-size"></span></h3>
-    <div id="lost-modal">
-      <div>
-        <p>Game Over</p>
+    <div class="game-container">
+      <div class="game">
+        <table class="game-grid">
+          <tbody></tbody>
+        </table>
+        <p class="size">Size: <span id="snake-size"></span></p>
+        <p class="text-light">use the arrow keys ot move</p>
+        
+        <div id="lost-modal">
+          <div>
+            <p>Game Over ☠️</p>
+            <p>Your score: <span id="final-score"></span></p>
+          </div>
+          <span class='restart-text'>Click anywhere to play again...</span>
+        </div>
       </div>
     </div>
 
