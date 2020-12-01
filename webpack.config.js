@@ -1,11 +1,11 @@
-const path = require('path');
+const path = require('path')
 
 module.exports = {
-  entry: "./src/index.js",
-  mode: "development",
+  entry: './src/index.js',
+  mode: 'development',
   output: {
-    path: path.resolve(__dirname, "dist"),
-    filename: "main.js"
+    path: '/',
+    filename: 'main.js',
   },
-  devtool: "sourcemap"
-};
+  devtool: 'sourcemap',
+}
