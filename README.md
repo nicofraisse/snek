@@ -1,18 +1,13 @@
-# Snake game
+# Drunk Snake
 
-Made in Vanilla JavaScript
+A game made in Vanilla JavaScript
 
-Run by using `webpack-dev-server`
-Control snake with arrow keys
+## How to Play
 
-Next steps:
-- Improve UI
-- Front-end design 
+- Play online: [snek-70f00.web.app/](https://snek-70f00.web.app/)
+- Run locally: Use `webpack-dev-server` in the command line
 
-Possible quirks:
-- Controls to increase food
-- Controls to change grid size
-- Neuro device
-- Autosolve
-- "Drunk mode"
+## Controls
 
+- Use arrow keys to control the snake
+- Watch out for the rotating map!
