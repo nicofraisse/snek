@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     <title>Drunk snake</title>
-    <link rel="stylesheet" href="style.css">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src data:">
+    <link rel="stylesheet" href="style.css" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; img-src data:"
+    />
   </head>
   <body>
     <div class="game-container">
@@ -13,18 +16,18 @@
           <tbody></tbody>
         </table>
         <p class="size">Size: <span id="snake-size"></span></p>
-        <p class="text-light">use the arrow keys ot move</p>
+        <p class="text-light">Use the arrow keys to move</p>
 
         <div id="lost-modal">
           <div>
             <p>Game Over ☠️</p>
             <p>Your score: <span id="final-score"></span></p>
           </div>
-          <span class='restart-text'>Click anywhere to play again...</span>
+          <span class="restart-text">Click anywhere to play again...</span>
         </div>
       </div>
     </div>
-    
+
     <script src="main.js"></script>
   </body>
 </html>
