@@ -1,6 +1,6 @@
 # Drunk Snake
 
-A game made in Vanilla JavaScript
+A slightly revisited snake game, custom made in Vanilla JavaScript
 
 ## How to Play
 
